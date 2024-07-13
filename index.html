@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sáng độc lạ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        #container {
+            text-align: center;
+            background: #ffffff63;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        #logo {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+        .number-box {
+            font-size: 3rem;
+            margin: 20px;
+            color: #333;
+            font-weight: bold;
+            transition: transform 0.5s ease, background-color 0.3s ease;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            background-color: #e0f7fa;
+        }
+        .number-box.animate {
+            transform: scale(1.2);
+            background-color: #b2ebf27a;
+        }
+        #random-number {
+            margin-top: 30px;
+        }
+        #start-button {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: background-color 0.3s ease;
+        }
+        #start-button:hover {
+            background-color: #0056b3;
+        }
+        #start-button:active {
+            background-color: #00409a;
+        }
+        #history {
+            margin-top: 20px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        #history ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        #history li {
+            padding: 5px 0;
+            font-size: 32px;
+            font-weight: bold;
+            border-bottom: 1px solid #ddd;
+        }
+        .background {
+            background-image: url('images/01.png');
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body class="background">
+    <div id="container">
+        <div id="random-number" class="number-box">Quay số trúng thưởng</div>
+        <button id="start-button">Quay số</button>
+        <div id="prize-number" class="number-box">Số trúng thưởng</div>
+        <div id="history">
+            <ul id="history-list"></ul>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
