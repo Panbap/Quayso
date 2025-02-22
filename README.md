@@ -16,7 +16,7 @@ Dự án "Quay So" là một ứng dụng mã nguồn mở giúp người dùng 
 
 Hãy xem video hướng dẫn chi tiết về cách sử dụng và triển khai dự án của chúng tôi trên kênh YouTube:
 
-[**Kênh YouTube của chúng tôi**](https://www.youtube.com/channel/UCLRtmxFJ651hDXEOtxOzQqw)
+[**Kênh YouTube**](https://www.youtube.com/channel/UCLRtmxFJ651hDXEOtxOzQqw)
 
 ## Donate
 
