@@ -18,7 +18,7 @@ Hãy xem video hướng dẫn chi tiết về cách sử dụng và triển khai
 
 ## Donate
 Nếu bạn thấy dự án này hữu ích và muốn đóng góp để hỗ trợ chúng tôi tiếp tục phát triển, bạn có thể ủng hộ qua các phương thức sau:
-
+- **Donate tôi**: https://panbap.github.io/Donate/donate.html
 - **PayPal**:
 
 Chúng tôi rất trân trọng mọi sự đóng góp của bạn!
