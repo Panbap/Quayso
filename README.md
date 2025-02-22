@@ -1,6 +1,5 @@
 # Quay So
-
-Dự án "Quay So" là một ứng dụng mã nguồn mở giúp người dùng học hỏi và nghiên cứu về các thuật toán...
+Site: https://panbap.github.io/Quayso/
 
 ## Table of Contents
 1. [Giới Thiệu](#giới-thiệu)
@@ -9,17 +8,15 @@ Dự án "Quay So" là một ứng dụng mã nguồn mở giúp người dùng 
 4. [Liên Hệ](#liên-hệ)
 
 ## Giới Thiệu
-
-Đây là một dự án mã nguồn mở dành cho những ai muốn học hỏi và nghiên cứu về các thuật toán quay số. Bạn có thể sử dụng và tùy chỉnh mã nguồn này để áp dụng vào các dự án của riêng mình.
+Đây là một dự án mã nguồn mở dành cho những ai muốn học hỏi và nghiên cứu về các thuật toán quay số. 
+Bạn có thể sử dụng và tùy chỉnh mã nguồn này để áp dụng vào các dự án của riêng mình.
 
 ## Video Hướng Dẫn
-
 Hãy xem video hướng dẫn chi tiết về cách sử dụng và triển khai dự án của chúng tôi trên kênh YouTube:
 
 [**Kênh YouTube**](https://www.youtube.com/channel/UCLRtmxFJ651hDXEOtxOzQqw)
 
 ## Donate
-
 Nếu bạn thấy dự án này hữu ích và muốn đóng góp để hỗ trợ chúng tôi tiếp tục phát triển, bạn có thể ủng hộ qua các phương thức sau:
 
 - **PayPal**:
